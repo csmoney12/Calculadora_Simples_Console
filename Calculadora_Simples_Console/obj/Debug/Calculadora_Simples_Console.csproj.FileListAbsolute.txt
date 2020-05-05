@@ -1,0 +1,7 @@
+C:\Users\guizi\source\repos\Calculadora_Simples_Console\Calculadora_Simples_Console\bin\Debug\Calculadora_Simples_Console.exe.config
+C:\Users\guizi\source\repos\Calculadora_Simples_Console\Calculadora_Simples_Console\bin\Debug\Calculadora_Simples_Console.exe
+C:\Users\guizi\source\repos\Calculadora_Simples_Console\Calculadora_Simples_Console\bin\Debug\Calculadora_Simples_Console.pdb
+C:\Users\guizi\source\repos\Calculadora_Simples_Console\Calculadora_Simples_Console\obj\Debug\Calculadora_Simples_Console.csprojAssemblyReference.cache
+C:\Users\guizi\source\repos\Calculadora_Simples_Console\Calculadora_Simples_Console\obj\Debug\Calculadora_Simples_Console.csproj.CoreCompileInputs.cache
+C:\Users\guizi\source\repos\Calculadora_Simples_Console\Calculadora_Simples_Console\obj\Debug\Calculadora_Simples_Console.exe
+C:\Users\guizi\source\repos\Calculadora_Simples_Console\Calculadora_Simples_Console\obj\Debug\Calculadora_Simples_Console.pdb
